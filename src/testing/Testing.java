@@ -12,6 +12,7 @@ public class Testing {
             System.out.println("Introduzca un numero");
             precio[i] = in.nextInt();
             System.out.println("Precio con descuento es: " + precioConIVA(precio[i]));
+            System.out.println("Actualizando .java para subir a github");
         }
     }
 
